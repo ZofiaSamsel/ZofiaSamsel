@@ -1,6 +1,6 @@
 
 - ✨ Hi, I'm Zosia. 
-- 🌱 I’m currently learning Python, Processing and Unity.
+- 🌱 I’m currently learning Python, C# for Unity and Processing.
 
 <!--
 **ZofiaSamsel/ZofiaSamsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
