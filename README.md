@@ -1,3 +1,12 @@
+<p align="left">
+
+<a href="https://www.linkedin.com/in/zofia-samsel-214924260/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:zosiasamsel@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
 
 - ✨ Hi, I'm Zosia. 
 - 🌱 I’m currently learning Python, C# for Unity and Processing.
